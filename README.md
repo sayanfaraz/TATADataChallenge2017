@@ -8,6 +8,7 @@
 
 ### Lidia
 - figure out how to import Excel in Python
+- convert any non-numerical data to a numerical representation
 ### Sayan
 - read through Theano
 
